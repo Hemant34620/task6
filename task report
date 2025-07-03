@@ -1,0 +1,67 @@
+Cybersecurity Internship – Task Report
+
+Intern Name: hemant
+Task: Password Complexity Evaluation  
+Tool Used: https://www.security.org/how-secure-is-my-password/  
+
+
+---
+
+🔍 Objective:
+To understand how password complexity affects security and protection against attacks like brute force or dictionary attacks.
+
+---
+
+🧪 Passwords Tested:
+
+1. **sunil123**  
+   - Strength: ❌ Weak  
+   - Time to Crack: Less than 1 second  
+   - Feedback: Common word + number combo. Very easy to guess.
+
+2. **Sunil@2024**  
+   - Strength: ⚠️ Medium  
+   - Time to Crack: A few hours  
+   - Feedback: Better with use of uppercase and symbols, but still predictable.
+
+3. **S#9uNiL_20@25xyz!**  
+   - Strength: ✅ Very Strong  
+   - Time to Crack: Trillions of years  
+   - Feedback: Excellent use of length and varied character sets.
+
+4. **Z$u8&Lk#02!mA%Rx7^Gp**  
+   - Strength: ✅ Very Strong  
+   - Time to Crack: Over 4000 trillion years  
+   - Feedback: Very high randomness, excellent security level.
+
+---
+
+📸 Screenshots:
+- Screenshot 1: Password test result for `sunil123`
+- Screenshot 2: Password test result for `Sunil@2024`
+- Screenshot 3: Password test result for `S#9uNiL_20@25xyz!`
+- Screenshot 4: Password test result for `Z$u8&Lk#02!mA%Rx7^Gp`
+
+---
+
+📚 Key Learnings:
+
+- Short passwords with simple patterns are easy to crack.
+- Adding uppercase letters, numbers, and special characters makes a password stronger.
+- **Password length is the biggest factor** in increasing resistance to brute-force attacks.
+- **Use passphrases or random strings** instead of names/dates.
+- Always use **unique passwords** for every account.
+
+---
+
+🛡️ Summary of Password Attack Types:
+
+- **Brute Force**: Tries every possible combination (fast against short/simple passwords).
+- **Dictionary Attack**: Uses common words, names, and patterns.
+- **Credential Stuffing**: Uses stolen passwords from previous breaches.
+
+---
+
+📌 Conclusion:
+Complex, long, and random passwords significantly improve your defense against cyberattacks. Tools like security.org help measure password strength and guide users to adopt secure practices.
+
